@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+pillow
+requests
+huggingface_hub
+google-generativeai
